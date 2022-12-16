@@ -1,4 +1,4 @@
-enum purpose {
+public enum purpose {
     CARGO_DELIVERY,
     UNDERGROUND_SCANNING,
     OBJECT_DISCOVERY,

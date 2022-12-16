@@ -1,9 +1,9 @@
-interface i_uav_resourse {
-    orientation orientation;
-    activation activation_type;
-    purpose purpose;
-    float mass;
-    int battery_consumption;
-    int range;
+public interface i_uav_resourse {
+    orientation orientation { get; set; }
+    activation activation_type { get; set; }
+    purpose purpose { get; set; }
+    float mass { get; set; }
+    int battery_consumption { get; set; }
+    int range { get; set; }
 
 }
