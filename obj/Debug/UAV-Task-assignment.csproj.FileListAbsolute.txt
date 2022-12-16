@@ -1,0 +1,2 @@
+C:\Users\alers\source\repos\UAV-Task-assignment\obj\Debug\UAV-Task-assignment.csproj.AssemblyReference.cache
+C:\Users\alers\source\repos\UAV-Task-assignment\obj\Debug\UAV-Task-assignment.csproj.CoreCompileInputs.cache

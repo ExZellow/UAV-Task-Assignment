@@ -1,4 +1,4 @@
-class headquarters {
+class base {
     int[2] coorinates;
     
 }
