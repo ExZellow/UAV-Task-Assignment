@@ -1,8 +1,8 @@
 
 namespace Uav_Task_assignment {
-    class base
+    class Base
     {
-        int[2] coorinates;
+        int[] coorinates = new int[2];
     
     }
 }

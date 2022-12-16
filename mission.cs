@@ -4,7 +4,7 @@ namespace Uav_Task_assignment
     {
         string json_file;
         byte[] map;
-        uav[5] uavs;
+        uav[] uavs = new uav[5];
         task[] tasks;
 
 

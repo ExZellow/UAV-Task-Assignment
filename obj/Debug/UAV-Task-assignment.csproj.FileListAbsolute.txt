@@ -1,2 +1,6 @@
 C:\Users\alers\source\repos\UAV-Task-assignment\obj\Debug\UAV-Task-assignment.csproj.AssemblyReference.cache
 C:\Users\alers\source\repos\UAV-Task-assignment\obj\Debug\UAV-Task-assignment.csproj.CoreCompileInputs.cache
+C:\Users\alers\source\repos\UAV-Task-Assignment\bin\Debug\ClassLibrary.dll
+C:\Users\alers\source\repos\UAV-Task-Assignment\bin\Debug\ClassLibrary.pdb
+C:\Users\alers\source\repos\UAV-Task-Assignment\obj\Debug\ClassLibrary.dll
+C:\Users\alers\source\repos\UAV-Task-Assignment\obj\Debug\ClassLibrary.pdb
