@@ -7,12 +7,16 @@ namespace Uav_Task_assignment
         uav[] uavs = new uav[5];
         task[] tasks;
 
-
+        void ActivateMission()
+        { }
         void out_information_mission()
         { }
 
-        void out_ways_robots() { }
+        void out_ways_robots() 
+        { }
 
-        void out_information_task(int task_id) { }
+        void out_information_task(int task_id) 
+        { }
+
     }
 }

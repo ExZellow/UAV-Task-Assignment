@@ -9,7 +9,7 @@ public class uav { //Дрон
     public float diameter;
     public string sphere;
 
-    public uav(seed_uav_resource res_type) {
+    public uav(i_uav_resourse res_type) {
         uav_resourse = res_type;
     }
 

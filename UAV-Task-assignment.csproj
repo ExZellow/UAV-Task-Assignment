@@ -39,7 +39,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="base.cs" />
+    <Compile Include="Base.cs" />
     <Compile Include="mission.cs" />
     <Compile Include="task.cs" />
     <Compile Include="uav\activation.cs" />
@@ -48,7 +48,7 @@
     <Compile Include="uav\orientation.cs" />
     <Compile Include="uav\purpose.cs" />
     <Compile Include="uav\uav.cs" />
-    <Compile Include="uav\uav_resourse.cs" />
+    <Compile Include="uav\seed_uav_resourse.cs" />
     <Compile Include="way.cs" />
   </ItemGroup>
   <ItemGroup>
