@@ -10,8 +10,8 @@ public class uav {
     public string sphere;
 
 
-    public uav(uav_resource res_type) {
-        this.uav_resourse = res_type;
+    public uav(seed_uav_resource res_type) {
+        uav_resourse = res_type;
     }
 
 }
