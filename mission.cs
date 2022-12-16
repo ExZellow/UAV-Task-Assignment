@@ -9,6 +9,8 @@ namespace Uav_Task_assignment
 
         void ActivateMission()
         { }
+        void FinishMission()
+        { }
         void out_information_mission()
         { }
 
