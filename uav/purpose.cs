@@ -1,4 +1,4 @@
-public enum purpose { //Назначение ресурса дрона
+public enum purpose { //Тип работы дрона
     CARGO_DELIVERY, //Доставка грузов
     UNDERGROUND_SCANNING, //Подземное сканирование
     OBJECT_DISCOVERY, //Обнаружение
