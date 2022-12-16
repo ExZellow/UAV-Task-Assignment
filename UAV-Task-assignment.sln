@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAV-Task-assignment", "UAV-Task-assignment.csproj", "{2DAE298D-739F-466F-83D7-1BDBB07E7C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_UAV_Ta", "..\Test_UAV_Ta\Test_UAV_Ta.csproj", "{92B92FE7-C258-4B82-8913-F897DAC94040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_UAV_Ta", "..\Test_UAV_Ta\Test_UAV_Ta.csproj", "{92B92FE7-C258-4B82-8913-F897DAC94040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -39,7 +39,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="base.cs" />
+    <Compile Include="Base.cs" />
     <Compile Include="mission.cs" />
     <Compile Include="task.cs" />
     <Compile Include="uav\activation.cs" />

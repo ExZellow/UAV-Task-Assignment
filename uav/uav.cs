@@ -8,8 +8,9 @@ public class uav { //Дрон
     public i_uav_resourse uav_resourse; //Тип ресурса дрона
     public float diameter;
     public string sphere;
+    public task ActiveTask;
 
-    public uav(i_uav_resource res_type) {
+    public uav(i_uav_resourse res_type) {
         uav_resourse = res_type;
     }
 

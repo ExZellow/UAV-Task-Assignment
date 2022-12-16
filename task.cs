@@ -1,12 +1,15 @@
+using System.Collections.Generic;
+
 public class task {
     
     int master_id;
-    way[] ways;
-    uav[] uavs; 
+    List<way[]> ways;
+    uav[] uavs;
+    public purpose activeWork;
 
-    // public smth() {
-    //     seed_uav_resource s = new seed_uav_resource(); 
-    //     uav uav_inst = new uav(s);
-    //     uav_inst.uav_resourse.resource_consumption = 10; //TODO: Понять, как создавать экземпляры дронов для разных типов полезной нагрузки
-    // }
+    public void GetWork(uav drone,i_uav_resourse work)
+    {
+        uav mainDrone = new uav(work);
+
+    }
 }
