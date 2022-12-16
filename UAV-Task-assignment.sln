@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAV-Task-assignment", "UAV-Task-assignment.csproj", "{2DAE298D-739F-466F-83D7-1BDBB07E7C8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_UAV_Ta", "..\Test_UAV_Ta\Test_UAV_Ta.csproj", "{92B92FE7-C258-4B82-8913-F897DAC94040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2DAE298D-739F-466F-83D7-1BDBB07E7C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DAE298D-739F-466F-83D7-1BDBB07E7C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DAE298D-739F-466F-83D7-1BDBB07E7C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B92FE7-C258-4B82-8913-F897DAC94040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B92FE7-C258-4B82-8913-F897DAC94040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B92FE7-C258-4B82-8913-F897DAC94040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B92FE7-C258-4B82-8913-F897DAC94040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
