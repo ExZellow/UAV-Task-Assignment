@@ -1,0 +1,8 @@
+﻿public enum scope
+{
+    CYLINDRICAL,
+    CONICAL,
+    PYRAMIDAL,
+    LOWER_HEMISPHERE,
+    SOLID_OF_REVOLUTION_OF_A_TRIANGLE
+}

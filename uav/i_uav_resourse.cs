@@ -4,6 +4,7 @@ public interface i_uav_resourse { //Полезная нагрузка дрона
     purpose purpose { get; set; }
     float mass { get; set; }
     int battery_consumption { get; set; }
+    scope scope { get; set; }
     int range { get; set; }
 
 }

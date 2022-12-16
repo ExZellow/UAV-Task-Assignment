@@ -44,11 +44,17 @@
     <Compile Include="task.cs" />
     <Compile Include="uav\activation.cs" />
     <Compile Include="uav\flight_speed.cs" />
+    <Compile Include="uav\ground_penetrating_radar_uav_resource.cs" />
+    <Compile Include="uav\hd_camera_uav_resource.cs" />
     <Compile Include="uav\i_uav_resourse.cs" />
+    <Compile Include="uav\laser_3d_scanning_uav_resource.cs" />
     <Compile Include="uav\orientation.cs" />
     <Compile Include="uav\purpose.cs" />
+    <Compile Include="uav\scope.cs" />
+    <Compile Include="uav\suspended_load_uav_resource.cs" />
     <Compile Include="uav\uav.cs" />
-    <Compile Include="uav\uav_resourse.cs" />
+    <Compile Include="uav\spraying_sowing_uav_resourse.cs" />
+    <Compile Include="uav\videocamera_uav_resource.cs" />
     <Compile Include="way.cs" />
   </ItemGroup>
   <ItemGroup>
