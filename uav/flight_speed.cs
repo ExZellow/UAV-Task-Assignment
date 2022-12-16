@@ -1,5 +1,5 @@
-public class flight_speed {
-    float horizontal_speed;
-    float takeoff_speed;
-    float landing_speed;
+public class flight_speed { //Скорость дрона
+    float horizontal_speed; //Горизонтальная
+    float takeoff_speed; //Взлёта
+    float landing_speed; //Посадки
 }

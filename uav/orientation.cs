@@ -1,4 +1,4 @@
-public enum orientation {
-    FIXED,
-    LOWER_HEMISPHERE_ORIENTED
+public enum orientation { //Направленность ресурса дрона
+    FIXED, //Фиксированная (к примеру, механизм посева семян)
+    LOWER_HEMISPHERE_ORIENTED //Направляемая в нижней полусфере (например, видеокамера - она может двигаться)
 }

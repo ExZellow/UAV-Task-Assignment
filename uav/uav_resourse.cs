@@ -1,4 +1,4 @@
-class uav_resource : i_uav_resourse {
+class uav_resource : i_uav_resourse { //Полезная нагрузка конкретного дрона
     int resource_consumption;
 
     public orientation orientation { get; set; }

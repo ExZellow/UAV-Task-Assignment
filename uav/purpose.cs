@@ -1,11 +1,11 @@
-public enum purpose {
-    CARGO_DELIVERY,
-    UNDERGROUND_SCANNING,
-    OBJECT_DISCOVERY,
-    OBJECT_RECOGNITION,
-    OBJECT_FOLLOWING,
-    CARTOGRAPHY,
-    ENVIRONMENT_3D_SCANNING,
-    AREA_SPRAYING,
-    AREA_SOWING
+public enum purpose { //Назначение ресурса дрона
+    CARGO_DELIVERY, //Доставка грузов
+    UNDERGROUND_SCANNING, //Подземное сканирование
+    OBJECT_DISCOVERY, //Обнаружение
+    OBJECT_RECOGNITION, //Распознавание
+    OBJECT_FOLLOWING, //Следование
+    CARTOGRAPHY, //Картография
+    ENVIRONMENT_3D_SCANNING, //3D сканирование окружения
+    AREA_SPRAYING, //Опрыскивание территории
+    AREA_SOWING //Засеивание территории
 }
